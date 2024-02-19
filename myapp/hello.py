@@ -1,4 +1,4 @@
-
+import fire
 def hello(name="Worlnnnnnnd"):
   return "Hello %s!" % name
 
